@@ -9,7 +9,7 @@ h1{
 .abu-naem{
     color: orange;
 }
-section{
+.flexiable-container{
     display: flex;
     margin-bottom: 150px;
     padding-top: 10px;
@@ -37,4 +37,10 @@ section{
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+}
+h2{
+    text-align: left;
+}
+.experience-h2{
+    color: orange;
 }
