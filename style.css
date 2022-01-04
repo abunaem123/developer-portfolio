@@ -63,15 +63,16 @@ h2{
 .Experiences h1{ 
     padding-left: 70px;
 }
-#ex-webdev{
-    border-left: 7px solid;
-    background-image: linear-gradient(blue cyan);
-    border-image-slice: 1;
-}
 #ex-webbaby{
     border-left: 7px solid;
+    border-image: linear-gradient(blue,cyan);
+    border-image-slice: 1 ;
+}
+#ex-webdev{
+    border-left: 7px solid;
+    border-image: linear-gradient(salmon, tomato);
     border-image-slice: 1;
-    background-image: linear-gradient(orange tomato);
+}
 }
 footer p{
     text-align: center;
