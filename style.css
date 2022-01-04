@@ -11,7 +11,7 @@ h1{
 }
 .flexiable-container{
     display: flex;
-    margin-bottom: 150px;
+    margin-bottom: 100px;
     padding-top: 10px;
 }
 .half-width{
@@ -43,4 +43,10 @@ h2{
 }
 .experience-h2{
     color: orange;
+}
+.experoence-item{
+    width: 40%;
+    box-shadow: 10px 10px 40px gray;
+    margin-left: 5px;
+    margin-right: 5px;
 }
